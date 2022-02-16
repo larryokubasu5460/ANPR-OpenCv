@@ -41,7 +41,6 @@ rsa==4.8
 scikit-image==0.19.1
 scipy==1.7.3
 six==1.16.0
--e git+https://github.com/tensorflow/models@48b4b573deb91bb2267d4753651b8742512688a1#egg=slim&subdirectory=research\slim
 sqlparse==0.4.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
