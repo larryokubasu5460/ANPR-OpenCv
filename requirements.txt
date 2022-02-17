@@ -32,7 +32,7 @@ scikit-image==0.19.1
 Werkzeug==2.0.2
 wget==3.2
 numpy==1.21.4
-flask = "*"
+flask==2.0.3
 torch==1.10.1+cpu
 torchvision==0.11.2+cpu
 typing-extensions==3.10.0.2
