@@ -1,11 +1,9 @@
 easyocr==1.4.1
 gunicorn==19.9.0
 imutils==0.5.4
-numpy==1.21.4
 opencv-contrib-python==4.5.4.58
 Pillow==8.2.0
 pytesseract==0.3.8
-PyYAML==6.0
 requests==2.27.1
 scikit-image==0.19.1
 Werkzeug==2.0.2
