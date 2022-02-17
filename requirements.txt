@@ -18,7 +18,7 @@ mypy==0.910
 mypy-extensions==0.4.3
 networkx==2.6.3
 gunicorn==19.9.0
-opencv-contrib-python==4.5.4.58
+opencv-contrib-python-headless==4.5.4.58
 Pillow==8.2.0
 pytesseract==0.3.8
 protobuf==3.19.1
