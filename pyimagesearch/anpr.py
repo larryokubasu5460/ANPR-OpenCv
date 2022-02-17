@@ -5,7 +5,7 @@ import pytesseract
 import numpy as np
 import imutils
 import cv2
-from torch import square
+#from torch import square
 
 
 class PyImageSearchANPR:
